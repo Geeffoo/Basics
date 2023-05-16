@@ -1,0 +1,1 @@
+Wellcome from print command to this file directly using file attribute
